@@ -1,2 +1,3 @@
 # latihan-branch untuk membuat branch baru
-github  itu asyik bang
+github nda asyik katanya
+
